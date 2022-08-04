@@ -1,2 +1,6 @@
 # Speech Quefrency Transform
-Speech Feature Extraction and Composition: harmonic spectra and fundamental frequency. 
+
+Install:
+pip install -i https://test.pypi.org/simple/ sqtpy==0.0.2
+
+
