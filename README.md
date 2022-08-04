@@ -1,4 +1,4 @@
-# Speech Quefrency Transform
+# Speech Quefrency Transform (SQT)
 
 ## Python
 
