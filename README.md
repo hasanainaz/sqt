@@ -6,11 +6,11 @@
 
 1. Install:
 ```
-pip install sqtpy==0.0.1
+pip install sqtpy
 ```
-or
+or 
 ```
-pip install -i https://test.pypi.org/simple/ sqtpy==0.0.2
+pip install -i https://test.pypi.org/simple/ sqtpy
 ```
 
 2. Initalize a new instance
