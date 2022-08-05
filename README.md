@@ -4,21 +4,21 @@ The efficient use of a communication bandwidth starts with the data source. The 
 
 ## Python
 
+
+
 ### The Int16 Version
+
+We prepared this version of the sqt library for the Raspberry Pi combatablity. This version prioritizes space over speed and quality. In this vesrion, 256-level variables are multiplied while they are in 16-bit-integer-data type, and its temporal and cepstral filterings are done sequantally inside for-loops. Please do not use high order filtering in this version. 
 
 1. Install:
 ```
 pip install sqtpy
 ```
-or 
-```
-pip install -i https://test.pypi.org/simple/ sqtpy
-```
 
 2. Initalize a new instance
 ```
 import sqtpy
-sqt = sqtpy.SQT( N = 500 , Rs = 300 , Fs = 8000 )
+sqt = sqtpy.SQT( N = 50 , Rs = 30 , Fs = 8000 )
 ```
 
 3. Extract Pitch Track and speech features
