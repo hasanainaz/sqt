@@ -3,13 +3,13 @@
 This is an Automatic Speech Recognition (ASR) interface that convert speech audio to and from the cepstral domain. In other words, it extracts the locally stationary speech featuers from the speech signals, and it reconstructs them back to speech singals. It represents the speech series by two features and has several applications. 
 
 ### Speech Featrues:
-a. Pitch Tracks
-b. Responsive-Band Spectrograms (harmonic series). 
+1. Pitch Tracks
+2. Responsive-Band Spectrograms (harmonic series). 
     
 ### Quefrency Scales:
-a. Linear-Space
-b. Reciprocal (this is similar to the MFCC scale)
-c. Geometrical (this is based on the two dimensional view of the pitch function)
+1. Linear-Space
+2. Reciprocal (this is similar to the MFCC scale)
+3. Geometrical (this is based on the two dimensional view of the pitch function)
 
 ### Applications:
 1. Speech Analysis and Synthesis 
