@@ -9,11 +9,7 @@ JavaScript versions have not been formally released at this time.
 
 ## Python
 
-Two versions are expected in Python. One of them has been released. 
-
-### The Int16 Version
-
-We prepared this version of the sqt library for the Raspberry Pi combatablity. This version prioritizes space over speed and quality. In this vesrion, 256-level variables are multiplied while they are in 16-bit-integer-data type, and its temporal and cepstral filterings are done sequantally inside for-loops, so low-order filtering is sticktly recommened in this version. Please use the following instructions to get started. 
+Please use the following instructions to get started. 
 
 
 1. Install:
@@ -39,7 +35,21 @@ I = sqt.decode( F0, Hm )
 
 Note: there is a Jupyter Notebook demo in the package directory. 
 
-## Acknowledgements:
-1. Ahmad Hasanain, Muntaser Syed, Veton Kepuska, Marius Cilaghi, "Speech Quefrency Transform" - 2019, ResearchSqaure.
-2. Veton Z Kepuska, "Wake-up-word speech recognition application for first responder communication enhancement" - 2006, Florida Institute of Technology (WUW-I Speech Corpus) 
-3. Minnesota Department of Health, "4 - Baby Behavior: Crying baby" - 2017, Youtube.
+
+### The Int16 Version
+
+We prepared this version of the sqt library for the Raspberry Pi combatablity. This version prioritizes space over speed and quality. In this vesrion, 256-level variables are multiplied while they are in 16-bit-integer-data type, and its temporal and cepstral filterings are done sequantally inside for-loops, so low-order filtering is sticktly recommened in this version. 
+
+
+When initalizing a new instance
+```
+import sqtpy
+sqt = sqtpy.SQTint16( N = 50 , Rs = 30 , Fs = 8000 )
+```
+
+## Open-Source License: GNU Affero General Public License v3
+
+Authored by Ahmad Hasanain, revised by Muntaser Syed, supervised by Dr Veton Kepuska, and reviewed by Dr Marius Silaghi,
+Florida Instittue of Technology - AhmadZuhair.com © 2022
+
+
