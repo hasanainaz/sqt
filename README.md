@@ -20,13 +20,16 @@ This is an Automatic Speech Recognition (ASR) interface that converts speech aud
 ### Approach
 The efficient use of a communication bandwidth starts with the data source. The features of the speech signals can be extracted and reconstructed to lower the Internet traffic of the acoustic artificial agents and increase the quality of the automatic speech recognition systems. The Speech Quefrency Transform (SQT) is hereby introduced in the work to enrich the communication space between the artificial agents and mankind. We describe the motivation, methodology, and deep learning approach in detail as we apply the SQT technology to several applications: sharp pitch track extraction, real-time speech communications, and emotion recognition. Combining multiple processes, attenuating background noises, and enabling distant-speech recognition, we introduce the SQT cepstrograms as well as multiple quefrency scales. SQT is a set of frequency transforms whose spectral leakages are controlled per a frequency-modulation model. SQT captures the stationarity of time series onto a hyperspace that resembles the cepstrogram when it is reduced for pitch track extraction. This library is an interface for Automatic Speech Recognition (ASR) for converting an audio series to and from the cepstral domain. 
 
-# Libraries
+#### Jupyter Notebook Demo
 
-There is a Jupyter Notebook demo in the directory. 
+1. [Browse the HTML copy online](https://htmlpreview.github.io/?https://github.com/hasanainaz/sqt/blob/master/docs/demo.html)
+2. [Run the Jupyter Notebook live in Google CoLab](https://colab.research.google.com/github/hasanainaz/sqt/blob/master/docs/demo.ipynb) 
 
-## Python
 
-Please use the following instructions to get started. 
+
+# Python Library
+
+The Jupyter Notebook Demo is also in the installation directory. Please use the following instructions for a quick start. 
 
 1. Install:
 ```
@@ -57,24 +60,28 @@ We prepared this version of the sqt library for the Raspberry Pi combatablity. T
 sqt = sqtpy.SQTint16( N = 50 , Rs = 30 , Fs = 8000 )
 ```
 
-## JavaScript
+# JavaScript Library
 
-JavaScript versions have not been formally released at this time. 
+The JavaScript version has not been officially released yet. Please check again later. 
 
 
 
 # License: 
 
 1. Please cite the following article in your future work if you utulize any of the SQT libraries: 
+
 ```
 Hasanain, Ahmad Zuhair, et al. "Speech Quefrency Transform (SQT)." (2022).
 ``
+
 2. Cite the Github link, which is authored by Ahmad Hasanain, revised by Muntaser Syed, supervised by Dr Veton Kepuska, and reviewed by Dr Marius Silaghi - Florida Instittue of Technology
+
 ```
 https://github.com/hasanainaz/sqt
 ```
 
 3. Or see the attached license for more infromation
+
 ```
 GNU Affero General Public License v3
 ```
