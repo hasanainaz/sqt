@@ -1,6 +1,6 @@
 # Speech Quefrency Transform (SQT)
 
-This is an Automatic Speech Recognition (ASR) interface that convert speech audio to and from the cepstral domain. In other words, it extracts the locally stationary speech featuers from the speech signals, and it reconstructs them back to speech singals. It represents the speech series by two features and has several applications. 
+This is an Automatic Speech Recognition (ASR) interface that converts speech audio to and from the cepstral domain. In other words, it extracts the locally stationary speech featuers from the speech signals, and it reconstructs them back to speech singals. It represents the speech series by two features and has several applications. 
 
 ### Speech Featrues:
 1. Pitch Tracks
@@ -63,14 +63,13 @@ JavaScript versions have not been formally released at this time.
 
 
 
-# Open-Source License: 
+# License: 
 
 1. Please cite the following article in your future work if you utulize any of the SQT libraries: 
 ```
 Hasanain, Ahmad Zuhair, et al. "Speech Quefrency Transform (SQT)." (2022).
-```
-
-2. Acknowledge this library, which is authored by Ahmad Hasanain, revised by Muntaser Syed, supervised by Dr Veton Kepuska, and reviewed by Dr Marius Silaghi - Florida Instittue of Technology
+``
+2. Cite the Github link, which is authored by Ahmad Hasanain, revised by Muntaser Syed, supervised by Dr Veton Kepuska, and reviewed by Dr Marius Silaghi - Florida Instittue of Technology
 ```
 https://github.com/hasanainaz/sqt
 ```
