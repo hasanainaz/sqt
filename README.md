@@ -30,7 +30,7 @@ The efficient use of a communication bandwidth starts with the data source. The 
 
 # Python Library
 
-The Jupyter Notebook Demo is also in the installation directory. Please use the following instructions for a quick start. 
+To get started, please the following instructions. There is also a Jupyter Notebook Demo in the package directory. 
 
 1. Install:
 ```
@@ -62,25 +62,23 @@ sqt = sqtpy.SQTint16( N = 50 , Rs = 30 , Fs = 8000 )
 
 # JavaScript Library
 
-The JavaScript version has not been officially released yet. Please check again later. 
+No JS version has been released yet. Please check again later. 
 
 
 
 # License: 
 
-The SQT programs are free software. 
-
-1. For commerical, please find the open-source license.
+The SQT programs are free software. They are provided for personal use in the hope that they will be useful but without any warranties, including without limitation warranties of fitness for a particular purpose and merchantability. For commerical, please find the open-source license. 
 ```
 GNU Affero General Public License v3
 ```
 
-2. For research, cite [the SQT article](https://www.researchsquare.com/article/rs-779995/v2).
+* Researchers need to cite [the scientific article](https://www.researchsquare.com/article/rs-779995/v2).
 ```
-Hasanain et al. "Speech Quefrency Transform (SQT)." (2022).
+Hasanain et al. "Speech Quefrency Transform (SQT)" (2022).
 ```
 
-3. For development, refrence the Github link.
+* Developers may refrence the SQT homepage in their commercial or nonprofit projects, so the libraries might be upldated in accordance with their end-user needs. 
 ```
 https://github.com/hasanainaz/sqt
 ```
