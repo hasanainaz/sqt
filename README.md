@@ -4,8 +4,8 @@ This is an Automatic Speech Recognition (ASR) interface that converts speech aud
 
 
 ### Jupyter Notebook Demo
-1. [Browse the HTML copy online](https://htmlpreview.github.io/?https://github.com/hasanainaz/sqt/blob/master/docs/demo.html)
-2. [Run the Jupyter Notebook live in Google CoLab](https://colab.research.google.com/github/hasanainaz/sqt/blob/master/docs/demo.ipynb) 
+1. [Browse the static HTML demo](https://htmlpreview.github.io/?https://github.com/hasanainaz/sqt/blob/master/docs/demo.html)
+2. Or: [Run the Jupyter Notebook live in Google CoLab](https://colab.research.google.com/github/hasanainaz/sqt/blob/master/docs/demo.ipynb) 
 
 
 ### Speech Featrues:
@@ -62,7 +62,8 @@ sqt = sqtpy.SQTint16( N = 50 , Rs = 30 , Fs = 8000 )
 
 # JavaScript Library
 
-No JS version has been released yet. Please check again later. 
+No JS version has been released yet. [Please check again later](https://www.ahmadzuhair.com/sqt_qualitycheck/). 
+
 
 
 
