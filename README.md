@@ -2,17 +2,32 @@
 
 This is an Automatic Speech Recognition (ASR) interface that converts speech audio to and from the cepstral domain. In other words, it extracts the locally stationary speech featuers from the speech signals, and it reconstructs them back to speech singals. It represents the speech series by two features and has several applications. 
 
-### Jupyter Notebook Demo
-1. [Browse the static HTML demo](https://htmlpreview.github.io/?https://github.com/hasanainaz/sqt/blob/master/docs/demo.html)
-2. Or: [Run the Jupyter Notebook live in Google CoLab](https://colab.research.google.com/github/hasanainaz/sqt/blob/master/docs/demo.ipynb) 
+### Demo
+1. [Run Jupyter Notebook on Google CoLab](https://colab.research.google.com/github/hasanainaz/sqt/blob/master/docs/demo.ipynb) 
+2. [Preview an HTML copy of the Notebook](https://htmlpreview.github.io/?https://github.com/hasanainaz/sqt/blob/master/docs/demo.html)
 
+### For Researchers and Developers
 
-### Repository 
-For Developers: [github.com/hasanainaz/sqt](https://github.com/hasanainaz/sqt)
+BibTeX:
+```
+@article{hasanain2022sqtp,
+  url={https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf},
+  publisher={Opast Publishing Group},
+  title={Multi-dimensional spectral process for cepstral feature engineering \& Formant Coding},
+  author={Hasanain, Ahmad Z. and Syed, Muntaser M. and Kepuska, Veton Z and Silaghi, Marius C},
+  journal={J Electrical Electron Eng},
+  volume={1},
+  number={1},
+  pages={1--20},
+  year={2022},
+  month={aug},
+}
+```
 
-### Citation 
-For Researchers: [Hasanain, A., Syed, M., Kepuska, V., Silaghi, M. (2022). Multi-Dimensional Spectral Process for Cepstral Feature
-Engineering & Formant Coding. J Electrical Electron Eng, 1(1), 01-20.](https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf)
+Repository:
+```
+https://github.com/hasanainaz/sqt
+```
 
 
 ### Abstract 
