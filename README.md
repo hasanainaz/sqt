@@ -6,30 +6,6 @@ This is an Automatic Speech Recognition (ASR) interface that converts speech aud
 1. [Run Jupyter Notebook on Google CoLab](https://colab.research.google.com/github/hasanainaz/sqt/blob/master/docs/demo.ipynb) 
 2. [Preview an HTML copy of the Notebook](https://htmlpreview.github.io/?https://github.com/hasanainaz/sqt/blob/master/docs/demo.html)
 
-### For Researchers and Developers
-
-BibTeX:
-```
-@article{hasanain2022sqtp,
-  url={https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf},
-  publisher={Opast Publishing Group},
-  title={Multi-dimensional spectral process for cepstral feature engineering \& Formant Coding},
-  author={Hasanain, Ahmad Z. and Syed, Muntaser M. and Kepuska, Veton Z and Silaghi, Marius C},
-  journal={J Electrical Electron Eng},
-  volume={1},
-  number={1},
-  pages={1--20},
-  year={2022},
-  month={aug},
-}
-```
-
-Repository:
-```
-https://github.com/hasanainaz/sqt
-```
-
-
 ### Abstract 
 The efficient use of a communication bandwidth starts with the data source. The features of the speech signals can be extracted and reconstructed to lower the Internet traffic of the acoustic artificial agents and increase the quality of the automatic speech recognition systems. The Speech Quefrency Transform (SQT) is hereby introduced in the work to enrich the communication space between the artificial agents and mankind. We describe the motivation, methodology, and deep learning approach in detail as we apply the SQT technology to several applications: sharp pitch track extraction, real-time speech communications, and emotion recognition. Combining multiple processes, attenuating background noises, and enabling distant-speech recognition, we introduce the SQT cepstrograms as well as multiple quefrency scales. SQT is a set of frequency transforms whose spectral leakages are controlled per a frequency-modulation model. SQT captures the stationarity of time series onto a hyperspace that resembles the cepstrogram when it is reduced for pitch track extraction. This library is an interface for Automatic Speech Recognition (ASR) for converting an audio series to and from the cepstral domain. 
 
@@ -90,6 +66,28 @@ No JS version has been released yet. [Please check again later](https://www.ahma
 
 
 
+# For Researchers and Developers
+
+BibTeX:
+```
+@article{hasanain2022sqtp,
+  url={https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf},
+  publisher={Opast Publishing Group},
+  title={Multi-dimensional spectral process for cepstral feature engineering \& Formant Coding},
+  author={Hasanain, Ahmad Z. and Syed, Muntaser M. and Kepuska, Veton Z and Silaghi, Marius C},
+  journal={J Electrical Electron Eng},
+  volume={1},
+  number={1},
+  pages={1--20},
+  year={2022},
+  month={aug},
+}
+```
+
+Repository:
+```
+https://github.com/hasanainaz/sqt
+```
 
 
 # License: 
