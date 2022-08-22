@@ -66,27 +66,45 @@ No JS version has been released yet. [Please check again later](https://www.ahma
 
 
 
-# For Researchers and Developers
+# For Developers & Researchers
 
-BibTeX:
-```
-@article{hasanain2022sqtp,
-  url={https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf},
-  publisher={Opast Publishing Group},
-  title={Multi-dimensional spectral process for cepstral feature engineering \& Formant Coding},
-  author={Hasanain, Ahmad Z. and Syed, Muntaser M. and Kepuska, Veton Z and Silaghi, Marius C},
-  journal={J Electrical Electron Eng},
-  volume={1},
-  number={1},
-  pages={1--20},
-  year={2022},
-  month={aug},
-}
-```
 
 Repository:
 ```
 https://github.com/hasanainaz/sqt
+```
+
+## BibTeX Citations
+
+Engienering Scientists:
+```
+@article{hasanain2022sqtp,
+  title={Multi-dimensional spectral process for cepstral feature engineering \& Formant Coding},
+  author={Hasanain, Ahmad Z. and Syed, Muntaser M. and Kepuska, Veton Z and Silaghi, Marius C},
+  journal={J Electrical Electron Eng},
+  publisher={Opast Publishing Group},
+  url={https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf},
+  volume={1},
+  number={1},
+  pages={1--20},
+  year={2022},
+  month={Aug},
+}
+```
+
+Linguistic Scientists:
+```
+@article{hasanain2022sqtm,
+  title={A Robust Speech Features Extractor \& Reconstructor For Artificial Intelligence Frontends},
+  author={Hasanain, A.Z. and Strother, J.B. and Silaghi, M.C. and Kepuska, V.Z. and Kostanic, I.N. and Anagnostopoulos, G.C.},
+  journal={J Huma Soci Scie},
+  url={https://opastpublishers.com/open-access/a-robust-speech-features-extractor-reconstructor-for-artificial-intelligence-frontends.pdf},
+  volume={5},
+  number={3},
+  pages={230--247},
+  year={2022},
+  month={Aug},
+}
 ```
 
 
