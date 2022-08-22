@@ -92,7 +92,7 @@ Engienering Scientists:
 }
 ```
 
-Linguistic Scientists:
+Linguistics Scientists:
 ```
 @article{hasanain2022sqtm,
   title={A Robust Speech Features Extractor \& Reconstructor For Artificial Intelligence Frontends},
