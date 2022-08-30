@@ -82,13 +82,13 @@ Engienering Scientists:
   title={Multi-dimensional spectral process for cepstral feature engineering \& Formant Coding},
   author={Hasanain, Ahmad Z. and Syed, Muntaser M. and Kepuska, Veton Z and Silaghi, Marius C},
   journal={J Electrical Electron Eng},
-  publisher={Opast Publishing Group},
+  publisher = {Opast Group {LLC}},
   url={https://opastpublishers.com/open-access/multi-dimensional-spectral-process-for-cepstral-feature-engineering-rnformant-coding.pdf},
   volume={1},
   number={1},
   pages={1--20},
   year={2022},
-  month={Aug},
+  month={aug},
 }
 ```
 
@@ -97,14 +97,15 @@ Linguistics Scientists:
 @article{hasanain2022sqtm,
   title={A Robust Speech Features Extractor \& Reconstructor For Artificial Intelligence Frontends},
   author={Hasanain, A.Z. and Strother, J.B. and Silaghi, M.C. and Kepuska, V.Z. and Kostanic, I.N. and Anagnostopoulos, G.C.},
-  journal={J Huma Soci Scie},
+  journal = {Journal of Humanities \& Social Sciences},
+  publisher = {Opast Group {LLC}},
   doi={10.33140/JHSS.05.03.06},
   url={http://doi.org/10.33140/JHSS.05.03.06},
   volume={5},
   number={3},
   pages={230--247},
   year={2022},
-  month={Aug},
+  month={aug},
 }
 ```
 
